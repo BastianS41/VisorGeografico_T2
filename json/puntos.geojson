@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "puntos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "tipo": "Deporte" }, "geometry": { "type": "Point", "coordinates": [ -76.520788947423739, 3.404680845381553 ] } },
+{ "type": "Feature", "properties": { "id": 2, "tipo": "Culto" }, "geometry": { "type": "Point", "coordinates": [ -76.519132757707709, 3.403142954930956 ] } },
+{ "type": "Feature", "properties": { "id": 3, "tipo": "Abastecimiento" }, "geometry": { "type": "Point", "coordinates": [ -76.522208538608893, 3.400983993336848 ] } },
+{ "type": "Feature", "properties": { "id": 4, "tipo": "Defensa" }, "geometry": { "type": "Point", "coordinates": [ -76.521439593383604, 3.400244622927907 ] } },
+{ "type": "Feature", "properties": { "id": 5, "tipo": "Cultura" }, "geometry": { "type": "Point", "coordinates": [ -76.522267688241612, 3.397464590190289 ] } },
+{ "type": "Feature", "properties": { "id": 6, "tipo": "Salud" }, "geometry": { "type": "Point", "coordinates": [ -76.520049577014788, 3.396902668679494 ] } },
+{ "type": "Feature", "properties": { "id": 7, "tipo": "Educacion" }, "geometry": { "type": "Point", "coordinates": [ -76.51576122864293, 3.401279741500424 ] } },
+{ "type": "Feature", "properties": { "id": 8, "tipo": "Defensa" }, "geometry": { "type": "Point", "coordinates": [ -76.518600411013267, 3.407283429221025 ] } },
+{ "type": "Feature", "properties": { "id": 9, "tipo": "Culto" }, "geometry": { "type": "Point", "coordinates": [ -76.512922046272607, 3.404887869096057 ] } },
+{ "type": "Feature", "properties": { "id": 10, "tipo": "Recreacion" }, "geometry": { "type": "Point", "coordinates": [ -76.514312062641409, 3.408998768569769 ] } },
+{ "type": "Feature", "properties": { "id": 11, "tipo": "Abastecimiento" }, "geometry": { "type": "Point", "coordinates": [ -76.508190075655378, 3.40672150771023 ] } },
+{ "type": "Feature", "properties": { "id": 12, "tipo": "Cultura" }, "geometry": { "type": "Point", "coordinates": [ -76.508160500839026, 3.408259398160828 ] } },
+{ "type": "Feature", "properties": { "id": 13, "tipo": "Culto" }, "geometry": { "type": "Point", "coordinates": [ -76.516737197582742, 3.39518732933075 ] } },
+{ "type": "Feature", "properties": { "id": 14, "tipo": "Defensa" }, "geometry": { "type": "Point", "coordinates": [ -76.517417418358974, 3.391313028387899 ] } },
+{ "type": "Feature", "properties": { "id": 15, "tipo": "Abastecimiento" }, "geometry": { "type": "Point", "coordinates": [ -76.521705766730832, 3.391046855040681 ] } },
+{ "type": "Feature", "properties": { "id": 16, "tipo": "Recreacion" }, "geometry": { "type": "Point", "coordinates": [ -76.505853665163144, 3.413375841390699 ] } },
+{ "type": "Feature", "properties": { "id": 16, "tipo": "Salud" }, "geometry": { "type": "Point", "coordinates": [ -76.508899871247976, 3.415830551148384 ] } },
+{ "type": "Feature", "properties": { "id": 17, "tipo": "Cultura" }, "geometry": { "type": "Point", "coordinates": [ -76.512153101047318, 3.412754770247189 ] } },
+{ "type": "Feature", "properties": { "id": 18, "tipo": "Recreacion" }, "geometry": { "type": "Point", "coordinates": [ -76.508485823818972, 3.414677133310435 ] } },
+{ "type": "Feature", "properties": { "id": 19, "tipo": "Abastecimiento" }, "geometry": { "type": "Point", "coordinates": [ -76.50966881647328, 3.412163273920036 ] } }
+]
+}
